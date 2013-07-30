@@ -3,12 +3,17 @@ body{
 	color: #FAF3BC;
 	background: #420600 url('img/bg-texture.jpg') repeat;
 }
-
+	
 a {
 	color: #4FD69F;
 	text-decoration: none;
 }
 
+img {
+	max-width: 100%;
+}
+
+/*typography*/
 h1{
 	font-size: 1.750em;
 	letter-spacing: -1.5px;
